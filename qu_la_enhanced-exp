@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name         qu.la enhanced exp
+// @namespace    https://yaozeye.github.io/
+// @version      1.0
+// @description  DarkBack-BrightFont
+// @author       yaozeye
+// @match        *://*.qu.la/*
+// @grant        none
+// @run-at       document-end
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    document.body.style.background="#000";
+    document.body.style.color="#fff";
+})();
