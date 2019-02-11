@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         qu.la enhanced exp
 // @namespace    https://yaozeye.github.io/
+// @homepageURL     https://github.com/yaozeye/javascript
 // @version      1.0
-// @description  DarkBack-BrightFont
+// @description  DarkBack-BrightFont on qu.la
 // @author       yaozeye
 // @match        *://*.qu.la/*
 // @grant        none
