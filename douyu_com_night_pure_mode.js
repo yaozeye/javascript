@@ -12,12 +12,12 @@
 // @copyright   2019, yaozeye
 // @match        *://douyu.com/*
 // @match        *://*.douyu.com/*
-// @require      https://raw.githubusercontent.com/yaozeye/javascript/master/jquery/1.12.4/jquery.min.js
-// @require      https://raw.githubusercontent.com/yaozeye/javascript/master/moment.js/2.22.2/moment.min.js
-// @require      https://raw.githubusercontent.com/yaozeye/javascript/master/feather-icons/4.9.0/feather.min.js
+// @require      https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js
+// @require      https://cdn.staticfile.org/moment.js/2.22.2/moment.min.js
+// @require      https://cdn.staticfile.org/feather-icons/4.9.0/feather.min.js
 // @grant        none
 // @run-at       document-end
-// @license MIT   https://opensource.org/licenses/MIT
+// @license MIT https://opensource.org/licenses/MIT
 // ==/UserScript==
 
 (function() {
